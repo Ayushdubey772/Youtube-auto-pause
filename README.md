@@ -28,13 +28,13 @@ A Chrome extension that automatically pauses YouTube videos when the tab is inac
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/youtube-auto-pause.git
+   https://github.com/Ayushdubey772/Youtube-auto-pause
    ```
 
 2. Open Chrome and go to:
 
    ```
-   chrome://extensions/
+   chrome://extensi
    ```
 
 3. Enable **Developer Mode** (top right)
@@ -49,7 +49,8 @@ A Chrome extension that automatically pauses YouTube videos when the tab is inac
 
 ## 📸 Screenshots
 
-*(Add your extension screenshots here)*
+<img width="527" height="263" alt="image" src="https://github.com/user-attachments/assets/33d67788-eacb-40ab-89d6-c9f534c381ee" />
+
 
 ---
 
